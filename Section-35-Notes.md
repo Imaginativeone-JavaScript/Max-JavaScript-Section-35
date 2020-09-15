@@ -1,0 +1,49 @@
+Section 35: Bonus: Web Components 0 / 49|3hr  | 23min
+- [ ] 565. Module Introduction | 2min
+- [ ] 566. Web Components in Action | 7min
+- [ ] 567. What are Web Components? | 3min
+- [ ] 568. Why Web Components? | 3min
+- [ ] 569. Getting Started! | 5min
+- [ ] 570. Web Component Browser Support | 3min
+- [ ] 571. Our Development Setup | 4min
+- [ ] 572. A First Custom Element | 8min
+- [ ] 573. Interacting with the Surrounding DOM | 5min
+- [ ] 574. Understanding the Custom Element Lifecycle | 3min
+- [ ] 575. Using "connectedCallback" for DOM Access | 2min
+- [ ] 576. Listening to Events Inside the Component | 9min
+- [ ] 577. Using Attributes on Custom Elements | 5min
+- [ ] 578. Styling our Elements | 4min
+- [ ] 579. Working with the "Shadow DOM" | 5min
+- [ ] 580. Adding an HTML Template | 6min
+- [ ] 581. Using Slots | 2min
+- [ ] 582. Defining the Template in JavaScript | 3min
+- [ ] 583. Using Style Tags in the Shadow DOM | 3min
+- [ ] 584. Extending Built-in Elements | 8min
+- [ ] 585. The Next Steps | 1min
+- [ ] 586. Understanding Shadow DOM Projection | 2min
+- [ ] 587. Styling "slot" Content Outside of the Shadow DOM | 4min
+- [ ] 588. Styling "slot" Content Inside of the Shadow DOM | 3min
+- [ ] 589. Styling the Host Component | 5min
+- [ ] 590. Conditional Host Styling | 3min
+- [ ] 591. Styling with the Host Content in Mind | 2min
+- [ ] 592. Smart Dynamic Styling with CSS Variables | 6min
+- [ ] 593. Cleaning Up the Overall Styling | 3min
+- [ ] 594. Observing Attribute Changes | 6min
+- [ ] 595. Adjusting the Component Behavior Upon Attribute Changes | 3min
+- [ ] 596. Using "disconnectedCallback" | 6min
+- [ ] 597. Adding a render() Method | 6min
+- [ ] 598. Final Adjustment | 1min
+- [ ] 599. The Next Steps | 1min
+- [ ] 600. Creating the Basic Modal Component | 7min
+- [ ] 601. Adding the Modal Container | 2min
+- [ ] 602. Styling the Modal Elements | 6min
+- [ ] 603. Adding Some General App Logic | 4min
+- [ ] 604. Opening the Modal via CSS | 5min
+- [ ] 605. Public Methods & Properties | 7min
+- [ ] 606. Understanding Named Slots | 6min
+- [ ] 607. Listening to Slot Content Changes | 5min
+- [ ] 608. Closing the Modal | 7min
+- [ ] 609. Dispatching Custom Events | 4min
+- [ ] 610. Configuring Custom Events | 5min
+- [ ] 611. Finishing it up! | 5min
+- [ ] 612. Useful Resources & Links | 1min
